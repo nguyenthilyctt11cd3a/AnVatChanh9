@@ -15,11 +15,11 @@ Món Dài hạn:là những món có HSD trên 1 tháng thường là đồ khô
 Đặt Hàng Nước Ngoài: Khách đặt hàng sẽ phải chờ từ 5-7 ngày vì hàng được lấy từ nước ngoài về. Shop sẽ cố gắng giao sớm nhất có thể cho quý khách
 <img src="https://raw.githubusercontent.com/nguyenthilyctt11cd3a/AnVatChanh9/master/nuocngoai.PNG">
 ### Một số tính năng cơ bản của trang web:
-Click vào sản phẩm để xem thông tin của sản phẩm:
+<br>Click vào sản phẩm để xem thông tin của sản phẩm:</br>
 <img src="https://raw.githubusercontent.com/nguyenthilyctt11cd3a/AnVatChanh9/master/click.PNG">
-Thêm vào giỏ hàng:
+<br>Thêm vào giỏ hàng:</br>
 <img src="https://raw.githubusercontent.com/nguyenthilyctt11cd3a/AnVatChanh9/master/them.PNG">
-Tính Tổng số tiền của sản phẩm:
+<br>Tính Tổng số tiền của sản phẩm:</br>
 <img src="https://raw.githubusercontent.com/nguyenthilyctt11cd3a/AnVatChanh9/master/tinhtien.PNG">
-Thu Nhỏ 
+<br>Thu Nhỏ </br>
 <img src="https://raw.githubusercontent.com/nguyenthilyctt11cd3a/AnVatChanh9/master/thunho.PNG">
